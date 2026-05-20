@@ -1,9 +1,9 @@
 ## About me :writing_hand:
 
-I'm Richard, a business guy with a passion for tech. Bringing a blend of Business vision and Tech skills I love bringing ideas to life
+I'm Richard, product engineer at heart with business vision and passion for tech in the crosshairs of innovation. 50% career in corporates (telecom, energy) and (co)founded multiple startups. 
 
-Always worked with dev teams as product owner and lately finished a full-stack software engineering program to polish up my skills with the latest and greatest technologies.
+Always worked with dev teams as product owner, and as innovation manager with amazing teams. Did a full-stack software engineering program whilst slowly pacing through my informatics bachelor. 
 
 ## What to reach out to me for ?
 
-If you can use an extra pair of hands & brains to move the needle on your product, I'm all ears.
+These github are my own 'hoby' projects. If you have a serious project and are in need of a Fractional product lead (early stage founders, incubators/accelerators, VC's even). Send me a DM or link with me on LinkedIn.
