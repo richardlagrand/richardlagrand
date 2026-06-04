@@ -6,4 +6,4 @@ Always worked with dev teams as product owner, and as innovation manager with am
 
 ## What to reach out to me for ?
 
-These github are my own 'hoby' projects. If you have a serious project and are in need of a Fractional product lead (early stage founders, incubators/accelerators, VC's even). Send me a DM or link with me on LinkedIn.
+These github are my own 'pet projects mixed with client projects. If you have a serious project and are in need of a Fractional product lead (early stage founders, incubators/accelerators, VC's even). Send me a DM or link with me on LinkedIn.
